@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:700&display=swap');
+
+.logo{
+    height: 250px;
+    width: auto;
+}
+
+.logo-and-header-container{ 
+    margin-top: 30%;
+    text-align: center;
+    color: #34A953;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 18px;
+}

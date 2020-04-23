@@ -1,0 +1,9 @@
+.navbar{
+    height: 80px;
+    width: 100%;
+    background-color: #34A953;
+}
+
+.profile-icon{
+    float: right;
+}
